@@ -1,6 +1,7 @@
 a = int(input("Enter a Number : "))
 n = ""
 c = ""
+
 print("-------The tables of 1st ", a , "numbers -------")
 for i in range(a):
     print(" ")
