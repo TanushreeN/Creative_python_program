@@ -12,6 +12,7 @@ print(squares)
 
 
 # Cubes using list
+
 n = int(input("Enter the number till you wan't the cubes : "))
 cubes = [x ** 3 for x in range(n+1)]
 print(cubes)
