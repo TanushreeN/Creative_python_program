@@ -17,6 +17,7 @@
 #_______________________________________
 #Code
 
+
 word = input("Enter a word : ").lower()
  
 if (len(word) % 2 == 0):
