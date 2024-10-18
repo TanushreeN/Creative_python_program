@@ -16,4 +16,5 @@ str_list.sort()
 num_list.sort()
 print(str_list + num_list)
 
+
 #Ouput: ['a', 'h', 'n', 't', 6, 7]
