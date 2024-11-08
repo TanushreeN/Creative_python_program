@@ -31,6 +31,7 @@ if word == word[::-1]:
 else:
     print("The given word" + " " + word + " " + "is not a Palindrome")
 #________________________________________
+
 #Outputs
 
 #Enter a word : Anna
