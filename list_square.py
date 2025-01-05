@@ -10,7 +10,6 @@ print(squares)
 
 # ____________________________________________
 
-
 # Cubes using list
 
 n = int(input("Enter the number till you wan't the cubes : "))
