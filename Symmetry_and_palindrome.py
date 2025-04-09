@@ -34,6 +34,7 @@ else:
 
 #Outputs
 
+
 #Enter a word : Anna
 #The word is symmetrical
 #The given word anna is Palindrome
